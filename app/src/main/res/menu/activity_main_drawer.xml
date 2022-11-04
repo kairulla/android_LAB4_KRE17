@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/proPliti">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/POSITION0101"
+                    android:icon="@drawable/electro_plita"
+                    android:title="@string/POSITION0101" />
+                <item
+                    android:id="@+id/POSITION0102"
+                    android:icon="@drawable/electro_plita"
+                    android:title="@string/POSITION0102" />
+                <item
+                    android:id="@+id/POSITION0103"
+                    android:icon="@drawable/electro_plita"
+                    android:title="@string/POSITION0103" />
+                <item
+                    android:id="@+id/POSITION0104"
+                    android:icon="@drawable/electro_plita"
+                    android:title="@string/POSITION0104" />
+                <item
+                    android:id="@+id/POSITION0105"
+                    android:icon="@drawable/electro_plita"
+                    android:title="@string/POSITION0105" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/onlainMagazini">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/sulpak"
+                    android:icon="@drawable/magazin_electroniki"
+                    android:title="@string/Sulpak" />
+                <item
+                    android:id="@+id/technodom"
+                    android:icon="@drawable/magazin_electroniki"
+                    android:title="@string/Technodom" />
+                <item
+                    android:id="@+id/mechta"
+                    android:icon="@drawable/magazin_electroniki"
+                    android:title="@string/Mechta" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/laws">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/laws_kz_l1"
+                    android:icon="@drawable/vosklitzatelniy_znak"
+                    android:title="@string/laws_kz_l1" />
+                <item
+                    android:id="@+id/laws_ru_l1"
+                    android:icon="@drawable/vosklitzatelniy_znak"
+                    android:title="@string/laws_ru_l1" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/additional">
+        <menu>
+            <item
+                android:id="@+id/nav_view1"
+                android:icon="@drawable/kniga_otkritaya"
+                android:title="@string/prism_break" />
+            <item
+                android:id="@+id/nav_view2"
+                android:icon="@drawable/kniga_otkritaya"
+                android:title="@string/securitylab" />
+            <item
+                android:id="@+id/nav_view3"
+                android:icon="@drawable/kniga_otkritaya"
+                android:title="@string/spy_soft" />
+        </menu>
+    </item>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/itemNapisatPismo"
+                android:icon="@drawable/pismo"
+                android:title="@string/send_mail" />
+        </menu>
+    </item>
+
+</menu>

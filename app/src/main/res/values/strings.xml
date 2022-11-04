@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LAB4_KRE17</string>
+
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+    <string name="action_settings">ВЫХОД</string>
+
+    <string name="view">Перейти к чтению…</string>
+
+    <string name="bonus">Бонус</string>
+    <string name="lit">Литература</string>
+
+    <string name="additional">Почитать</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="prism_break">https://prism-break.org/ru/all/</string>
+    <string name="spy_soft">http://www.spy-soft.net/</string>
+    <string name="securitylab">http://www.securitylab.ru/</string>
+    <string name="laws">ЗАКОНЫ</string>
+    <string name="laws_kz_l1">РК: оПДиИЗ</string>
+    <string name="laws_ru_l1">РФ: оПД</string>
+    <string name="communicate">Обратная связь</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">kayrulla@bk.ru</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Здравствуйте !</string>
+    <string name="sending_letter">Посылка письма автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">увы…</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

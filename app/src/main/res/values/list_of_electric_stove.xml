@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_program">Всё о электрических плитах eBook, 2022</string>
+    <string name="autor">Қайрулла Р.Е. (ВТиП-402)</string>
+<!---->
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+    <string name="proPliti">Про плиты</string>
+    <string name="POSITION0101">Часть 1</string>
+    <string name="POSITION0102">Часть 2</string>
+    <string name="POSITION0103">Часть 3</string>
+    <string name="POSITION0104">Часть 4</string>
+    <string name="POSITION0105">Часть 5</string>
+<!---->
+    <string name="onlainMagazini">Онлайн магазины</string>
+    <string name="Sulpak">Сулпак</string>
+    <string name="Technodom">Технодом</string>
+    <string name="Mechta">Мечта</string>
+</resources>
